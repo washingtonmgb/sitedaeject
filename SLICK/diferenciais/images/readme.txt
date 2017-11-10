@@ -1,0 +1,1 @@
+228x160px o tamanho das imagens

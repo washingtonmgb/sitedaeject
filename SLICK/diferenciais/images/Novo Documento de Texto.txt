@@ -1,0 +1,4 @@
+imagem para os clientes:
+294x294 pixel
+
+svg dos icones: 100x100 pixel
